@@ -4,5 +4,7 @@ spring:
   ai:
     # Key分享自：https://pgthinker.me/2023/10/03/196/
     baichuan:
-      api-key: sk-e2202dd6d8646b3230ec256548ccdf29
-      base-url: https://api.baichuan-ai.com
+      chat:
+        enabled: true
+        api-key: sk-131857011ab0b02f0a7439652c209f8e
+        base-url: https://api.baichuan-ai.com
