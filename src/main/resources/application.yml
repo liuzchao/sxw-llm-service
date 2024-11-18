@@ -1,0 +1,8 @@
+server:
+  port: 8322
+spring:
+  ai:
+    # Key分享自：https://pgthinker.me/2023/10/03/196/
+    baichuan:
+      api-key: sk-e2202dd6d8646b3230ec256548ccdf29
+      base-url: https://api.baichuan-ai.com
